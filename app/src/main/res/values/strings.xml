@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FragmentPractice</string>
+    <string name="title_home">Home</string>
+    <string name="title_register">Registro</string>
+    <string name="title_musica">Musica</string>
+    <string name="title_fragment">Fragmentos en Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valetfullname">Enter Your Full Name</string>
+    <string name="valbtnsave">SAVE</string>
+
+    <string-array name="country_array">
+        <item>Peru</item>
+        <item>Chile</item>
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Colombia</item>
+    </string-array>
+</resources>
